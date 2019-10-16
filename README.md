@@ -1,6 +1,8 @@
-# [HolyJS](https://holyjs-moscow.ru) TCXX proposals
-# [ECMAScript](https://github.com/tc39/ecma262) proposals
-# [Main TCXX repo](https://github.com/HolyJS-TCXX/main)
+[HolyJS](https://holyjs-moscow.ru) TCXX proposals
+
+[ECMAScript](https://github.com/tc39/ecma262) proposals
+
+[Main TCXX repo](https://github.com/HolyJS-TCXX/main)
 
 ## Disclaimer
 
