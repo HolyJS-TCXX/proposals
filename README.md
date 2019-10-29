@@ -15,13 +15,13 @@ All contributors to this repository are expected to follow [Code of Conduct](htt
 
 Proposal repository should be created under your personal GitHub account and start with `proposal-` prefix (i.e. `username/proposal-name-of-your-proposal`).
 
-Proposal repo should be in English. Please read [how to write a good explainer](https://github.com/tc39/how-we-work/blob/master/explainer.md) recommendations from TC39.
+Proposal repo should be in English. Please read [how to write a good proposal](https://github.com/tc39/how-we-work/blob/master/explainer.md) recommendation from TC39.
 
 Please be sure that similar proposal doesn't exist already in [ECMAScript proposals list](https://github.com/tc39/ecma262) (also check stage 1 and stage 0 lists). We don't accept existing proposals.
 
 One can add maximum of 3 proposals per conference.
 
-After you've created proposal repo, please [file PR](https://github.com/HolyJS-TCXX/proposals/pulls) against this repo and add your proposal to one of the tables below.
+After you've created a proposal repo, please [file PR](https://github.com/HolyJS-TCXX/proposals/pulls) against this repo and add your proposal to one of the tables below.
 
 ## Proposals
 
@@ -30,7 +30,7 @@ After you've created proposal repo, please [file PR](https://github.com/HolyJS-T
 
 ### Potential ECMAScript or Intl proposals
 
-Potential proposals are proposals which you really would like to see at next standards of ECMAScript or Intl. For example [String.prototype.capitalize](https://github.com/HolyJS-TCXX/proposal-to-capitalize-method-for-string-prototype)
+Potential proposals are proposals that you really would like to see at the next standards of ECMAScript or Intl.. For example [String.prototype.capitalize](https://github.com/HolyJS-TCXX/proposal-to-capitalize-method-for-string-prototype)
 
 | Proposal                                                                                                           | Author             | City and year of conference |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
