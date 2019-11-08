@@ -38,6 +38,7 @@ Potential proposals are proposals that you really would like to see at the next 
 | [`Fibers`](https://github.com/nin-jin/proposal-fibers) | Dmitriy Karlovskiy     | Moscow 2019       |
 | [Do..while extended lexical scope](https://github.com/Jabher/proposal-do-while-lexical-scope/)| Vsevolod Rodionov | Moscow 2019 |
 | [`"use strict"` versioning](https://github.com/sintell/proposal-use-strict-versioning) | Aleksei Anatskii | Moscow 2019       |
+| [`Generic type as constructor`](https://github.com/shama227/proposal-generic-type-constructor) | Shamil Khalilov | Moscow 2019       |
 
 ### Funny proposals
 
