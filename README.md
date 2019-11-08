@@ -35,6 +35,8 @@ Potential proposals are proposals that you really would like to see at the next 
 | Proposal                                                                                                           | Author             | City and year of conference |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
 | [`String.prototype.capitalize`](https://github.com/HolyJS-TCXX/proposal-to-capitalize-method-for-string-prototype) | Elena Pravdina     | Saint-Petersburg 2019       |
+| [`Fibers`](https://github.com/nin-jin/proposal-fibers) | Dmitriy Karlovskiy     | Saint-Petersburg 2019       |
+
 
 ### Funny proposals
 
