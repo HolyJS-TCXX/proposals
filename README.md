@@ -36,6 +36,7 @@ Potential proposals are proposals that you really would like to see at the next 
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
 | [`String.prototype.capitalize`](https://github.com/HolyJS-TCXX/proposal-to-capitalize-method-for-string-prototype) | Elena Pravdina     | Saint-Petersburg 2019       |
 | [Do..while extended lexical scope](https://github.com/Jabher/proposal-do-while-lexical-scope/)| Vsevolod Rodionov | Moscow 2019 |
+| [`"use strict"` versioning](https://github.com/sintell/proposal-use-strict-versioning) | Aleksei Anatskii | Moscow 2019       |
 
 ### Funny proposals
 
@@ -43,3 +44,4 @@ Just for fun proposals are proposals just for fun talking at party of the confer
 
 | Proposal                                                                                                           | Author             | City and year of conference |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
+| [Undecorators](https://github.com/underoot/proposal-undecorators) | Aleksandr Shoronov | Moscow 2019 | 
