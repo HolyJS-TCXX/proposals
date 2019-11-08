@@ -42,3 +42,4 @@ Just for fun proposals are proposals just for fun talking at party of the confer
 
 | Proposal                                                                                                           | Author             | City and year of conference |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
+| [Undecorators](https://github.com/underoot/proposal-undecorators) | Aleksandr Shoronov | Moscow 2019 | 
