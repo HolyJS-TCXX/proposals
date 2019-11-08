@@ -35,6 +35,7 @@ Potential proposals are proposals that you really would like to see at the next 
 | Proposal                                                                                                           | Author             | City and year of conference |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
 | [`String.prototype.capitalize`](https://github.com/HolyJS-TCXX/proposal-to-capitalize-method-for-string-prototype) | Elena Pravdina     | Saint-Petersburg 2019       |
+| [Do..while extended lexical scope](https://github.com/Jabher/proposal-do-while-lexical-scope/)| Vsevolod Rodionov | Moscow 2019 |
 
 ### Funny proposals
 
