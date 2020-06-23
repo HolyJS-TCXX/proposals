@@ -50,3 +50,4 @@ Just for fun proposals are proposals just for fun talking at party of the confer
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------|
 | [Undecorators](https://github.com/underoot/proposal-undecorators) | Aleksandr Shoronov | Moscow 2019 | 
 | [Shut-up Operator](https://github.com/dimastark/proposal-shut-up) | Dima Starkov | Moscow 2019 |
+| [Holy Peace mode](https://github.com/nin-jin/proposal-holy-peace) | Dmitriy Karlovskiy | Saint-Petersburg 2020 |
