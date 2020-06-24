@@ -41,6 +41,7 @@ Potential proposals are proposals that you really would like to see at the next 
 | [`"use implemenetation"` hints for runtime polyfill replacement](https://github.com/sintell/proposal-use-implementation-hints) | Aleksei Anatskii | Moscow 2019       |
 | [`Object.propotype.{let, apply}`](https://github.com/nicky1038/proposal-object-prototype-let-apply) | Nikolay Kudryavtsev | Moscow 2019 |
 | [`Generic type as constructor`](https://github.com/shama227/proposal-generic-type-constructor) | Shamil Khalilov | Moscow 2019       |
+| [`Time Limits`](https://github.com/nin-jin/proposal-timelimit) | Dmitriy Karlovskiy | Saint-Petersburg 2020       |
 
 ### Funny proposals
 
